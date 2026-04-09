@@ -1,0 +1,41 @@
+reserva_id,cliente,ruta,fecha_vuelo,precio,estado
+1,Andrea Rojas,Lima-Buenos Aires,2025-05-26,299,confirmado
+2,Alberto Ponce,Lima-Bogota,2025-05-24,846,confirmado
+3,Rosa Gutierrez,Lima-Miami,2025-05-03,338,cancelado
+4,Fernando Cruz,Lima-Bogota,2025-05-16,342,cancelado
+5,Carlos Vega,Madrid-Lima,2025-05-08,478,confirmado
+6,Patricia Salas,Madrid-Lima,2025-05-26,300,confirmado
+7,Carlos Vega,Miami-Lima,2025-05-09,546,cancelado
+8,Lucia Ramos,Miami-Lima,2025-05-08,834,confirmado
+9,Alberto Ponce,Lima-Buenos Aires,2025-05-07,845,confirmado
+10,Miguel Silva,Lima-Bogota,2025-06-05,314,confirmado
+11,Victor Medina,Lima-Miami,2025-06-01,794,cancelado
+12,Claudia Pino,Santiago-Lima,2025-05-30,849,cancelado
+13,Miguel Silva,Lima-Madrid,2025-05-16,434,confirmado
+14,Maria Ruiz,Madrid-Lima,2025-05-20,787,cancelado
+15,Andrea Rojas,Buenos Aires-Lima,2025-05-19,873,confirmado
+16,Pedro Diaz,Miami-Lima,2025-05-27,418,confirmado
+17,Lucia Ramos,Buenos Aires-Lima,2025-05-27,290,confirmado
+18,Claudia Pino,Miami-Lima,2025-06-06,571,confirmado
+19,Daniela Ibarra,Santiago-Lima,2025-06-08,758,cancelado
+20,Maria Ruiz,Lima-Bogota,2025-05-18,735,confirmado
+21,Carlos Vega,Lima-Madrid,2025-06-06,706,confirmado
+22,Daniela Ibarra,Bogota-Lima,2025-05-23,273,cancelado
+23,Miguel Silva,Lima-Buenos Aires,2025-06-09,369,cancelado
+24,Carlos Vega,Lima-Miami,2025-05-19,382,confirmado
+25,Paula Herrera,Bogota-Lima,2025-06-01,332,confirmado
+26,Camila Navarro,Bogota-Lima,2025-06-05,534,confirmado
+27,Fernando Cruz,Miami-Lima,2025-05-18,675,confirmado
+28,Ricardo Luna,Bogota-Lima,2025-05-15,404,confirmado
+29,Jorge Castillo,Lima-Buenos Aires,2025-05-15,488,confirmado
+30,Daniel Ortega,Madrid-Lima,2025-05-12,519,confirmado
+31,Ana Torres,Lima-Buenos Aires,2025-05-27,797,confirmado
+32,Victor Medina,Madrid-Lima,2025-05-21,378,confirmado
+33,Camila Navarro,Miami-Lima,2025-05-26,657,cancelado
+34,Paula Herrera,Lima-Bogota,2025-05-31,899,cancelado
+35,Carlos Vega,Lima-Miami,2025-05-05,463,cancelado
+36,Jorge Castillo,Lima-Bogota,2025-05-22,865,confirmado
+37,Pedro Diaz,Lima-Santiago,2025-06-06,404,confirmado
+38,Miguel Silva,Madrid-Lima,2025-05-02,322,confirmado
+39,Victor Medina,Bogota-Lima,2025-05-10,899,confirmado
+40,Miguel Silva,Madrid-Lima,2025-05-24,735,confirmado
